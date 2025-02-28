@@ -9,3 +9,6 @@ Action: Executed SQL queries to extract and preprocess telecom data, conducted e
 Outcome: Uncovered a 32% higher churn rate among the overall customer base, formulated actionable retention strategies, and delivered dynamic, real-time dashboards for superior business intelligence.
 
 Key Skills: SQL, Data Preprocessing, EDA, Tableau
+
+
+ https://docs.google.com/document/d/1Cw6evPIXE9MnGNdVQu-Djdc1zKBA8z5FntdnGLgn_Ts/edit?usp=sharing
